@@ -3,7 +3,8 @@ Data science Classification Project
 
 ## Model to recognise celerbrity images 
 
-![Screen Shot 2021-02-28 at 9 18 01 PM](https://user-images.githubusercontent.com/70486397/109429313-999bef00-7a14-11eb-9920-3a79ea778a6a.png)
+![Screen Shot 2021-02-28 at 10 29 13 PM](https://user-images.githubusercontent.com/70486397/109429451-3068ab80-7a15-11eb-8c14-c22bec1551d6.png)
+
 
 
 In this data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people,
