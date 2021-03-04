@@ -36,4 +36,5 @@ Technologies used in this project,
 ## Resources and Code Used
 
 Thanks to https://github.com/codebasics
+
 Face detection by using Haar cascades : https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html
